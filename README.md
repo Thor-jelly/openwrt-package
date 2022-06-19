@@ -12,4 +12,5 @@
 |luci-app-diskman	|磁盘管理|
 |luci-app-openclash	|openclash|
 |luci-app-turboacc	|Trubo ACC网络加速|
+|luci-app-serverchan	|serverchan|
 |||
